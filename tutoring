@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tutoring Website</title>
+</head>
+<style>
+.myImage {
+  float: left;
+  height: 300px;
+  width: 300px;
+  font-family: Veranda;
+}
+
+.div1{
+margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+div{
+background-color:#617143;
+    font-family: Arial;
+}
+p{
+    font-family: Arial;
+}
+h1{
+    font-family: Arial;
+}
+h2{
+    font-family: Arial;
+}
+</style>
+<body style="background-color:#EDE9D5;">
+
+<h1 
+style="text-align:center; color:#617143;">
+<span style="color:#E7AB9A;">BUDS: </span>
+Tutoring Services
+</h1>
+
+<div id="color">	
+<div id="div1">
+
+  <span 
+>  
+<p style="text-align:center; font-size:18.0pt;color:#EDE9D5;"><br>
+	The tutoring services aim to provide extra learning sessions to those students who need academic help with Filipino, English, AP, Science, Math.<br>&nbsp
+
+
+</p>
+</span>
+</div>
+</div>	
+
+<br>
+<div id="div1">
+<h2 
+style="text-align:left; color:#E7AB9A;"
+>
+
+One-on-One Sessions
+
+</h2>
+
+<span 
+STYLE="font-size:18.0pt; 
+vertical-align:left; color:#EDE9D5;" >  
+  
+In order to provide students with a more personalized session regarding their career decisions, this advocacy will conduct one-on-one sessions to be facilitated by available teachers and student volunteers.
+</span>
+<p style="font-size:13.0p;color:#EDE9D5;">
+Note: Each founder of the advocacy will be overlooking the subject to be taught by the student volunteers. This service will also be in partnership with the Student Council. 
+</p>
+</div>
+
+<br>
+<h2 
+style="text-align:center; color:#617143"
+>
+Student Volunteers
+
+</h2>
+
+
+<p style="font-size:18.0pt; text-align: center">  
+Renee- Math<br>
+Micha  - AP<br>
+Ariane - Science<br> 
+Raf - Filipino <br>
+Genry - Math 
+</p>
+
+
+<br>
+<div>
+<h2 
+style="text-align:left; color:#E7AB9A;"
+>
+Survey
+</h2>
+
+
+<p
+STYLE="font-size:18.0pt; color:#EDE9D5;" >  
+  
+	Join a tutoring session - <a href="https://docs.google.com/forms/d/e/1FAIpQLSedB3j70zwlS9oItvs7_b9McvP-Lb-f2rdso-lgbAs9GTNqlQ/viewform?usp=sharing" style="color:#E7AB9A;">
+Click here to join!
+</a>
+</p>
+
+<p
+STYLE="font-size:18.0pt;color:#EDE9D5; " >  
+  
+	Volunteer to Tutor - <a href="https://docs.google.com/forms/d/e/1FAIpQLScXpuRxX-r3XbNwW_gSO72vFBok157_5-bQ5UOaoRvrjuA_OQ/viewform?usp=sharing " style="color:#E7AB9A;">
+Click here to apply!
+</a> 	
+</p>
+ 
+</div>
+<br>
+
+
+	
+
+
+</body>
+</html>
